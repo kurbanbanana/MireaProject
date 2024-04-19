@@ -37,4 +37,9 @@
         android:name="ru.mirea.kurbanovaad.mireaproject.DataFragment"
         android:label="fragment_data2"
         tools:layout="@layout/fragment_data2" />
+    <fragment
+        android:id="@+id/backgroundTaskFragment"
+        android:name="ru.mirea.kurbanovaad.mireaproject.BackgroundTaskFragment"
+        android:label="fragment_background_task"
+        tools:layout="@layout/fragment_background_task" />
 </navigation>

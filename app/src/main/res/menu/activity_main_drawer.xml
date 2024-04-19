@@ -26,5 +26,10 @@
             android:icon="@android:drawable/ic_menu_more"
             android:title="webViewFragment"/>
 
+        <item
+            android:id="@+id/backgroundTaskFragment"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="backgroundTaskFragment"/>
+
     </group>
 </menu>
