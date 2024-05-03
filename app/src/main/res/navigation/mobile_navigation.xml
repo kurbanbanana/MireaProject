@@ -42,4 +42,19 @@
         android:name="ru.mirea.kurbanovaad.mireaproject.BackgroundTaskFragment"
         android:label="fragment_background_task"
         tools:layout="@layout/fragment_background_task" />
+    <fragment
+        android:id="@+id/compassFragment"
+        android:name="ru.mirea.kurbanovaad.mireaproject.CompassFragment"
+        android:label="fragment_compass"
+        tools:layout="@layout/fragment_compass" />
+    <fragment
+        android:id="@+id/profileCreationFragment"
+        android:name="ru.mirea.kurbanovaad.mireaproject.ProfileCreationFragment"
+        android:label="fragment_profile_creation"
+        tools:layout="@layout/fragment_profile_creation" />
+    <fragment
+        android:id="@+id/audioFragment"
+        android:name="ru.mirea.kurbanovaad.mireaproject.AudioFragment"
+        android:label="fragment_audio"
+        tools:layout="@layout/fragment_audio" />
 </navigation>

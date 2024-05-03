@@ -31,5 +31,19 @@
             android:icon="@android:drawable/ic_menu_more"
             android:title="backgroundTaskFragment"/>
 
+        <item
+            android:id="@+id/compassFragment"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="compassFragment"/>
+
+        <item
+            android:id="@+id/profileCreationFragment"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="profileCreationFragment"/>
+        <item
+            android:id="@+id/audioFragment"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="audioFragment"/>
+
     </group>
 </menu>
