@@ -44,6 +44,15 @@
             android:id="@+id/audioFragment"
             android:icon="@android:drawable/ic_menu_more"
             android:title="audioFragment"/>
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="profileFragment"/>
+        <item
+            android:id="@+id/workFileFragment"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="workFileFragment"/>
+
 
     </group>
 </menu>
